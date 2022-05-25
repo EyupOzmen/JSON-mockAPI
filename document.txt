@@ -1,0 +1,3 @@
+To watch the JSON mock API, run the command below.
+
+json-server --watch src/db.json
